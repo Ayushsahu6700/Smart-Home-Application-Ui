@@ -1,6 +1,8 @@
 # ayushsahu21rdfpp
+It is an smart home application havinng beautiful user interface.
+Samples:
+![image](https://user-images.githubusercontent.com/54814827/138581196-ae6e567f-3216-4dbc-b021-610b3a8a4a43.png)
 
-A new Flutter application.
 
 ## Getting Started
 
